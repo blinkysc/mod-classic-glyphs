@@ -1,4 +1,6 @@
-# Classic Glyphs Module
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
+
+## Classic Glyphs Module
 
 WotLK Classic 3.4.3 glyphs for 3.3.5a by repurposing existing glyphs.
 
